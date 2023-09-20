@@ -1,2 +1,30 @@
+#main-head{
+ display:flex;
+	  justify-content: center;
+	flex-wrap:wrap;
+
+}
+#div1{
+	width:150px;
+	height:150px;
+background-color:#008001;
+	
+	
+}
+#div2{
+	width:150px;
+	height:150px;
+	background:#ff0000;
+}
+
+#div3{
+	width:150px;
+	height:150px;
+	background:#0000ff
+	
+}
+#div1,#div2,#div3{
+	font-size:45px;
+}
 
 /* Your CSS Code here. */
